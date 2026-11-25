@@ -3,7 +3,7 @@
 1. Team member identification and student IDs.
 - Chan Tsz Hin 3036745840
 - Chan Kwan Kiu 3036665741
-- 
+- Pham Do Anh Duc 3036468222
 2. Application/Game description and core functionality summary.
 3. Detailed mapping explaining how each of the mandatory coding requirements (data structures,
 dynamic memory, file I/O, multi-file structure, non-syllabus topic) is implemented in the code.
